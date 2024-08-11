@@ -1,6 +1,6 @@
 # Sentiment Analysis Using Recurrent Neural Networks (RNN) with IMDB Dataset
 
-https://floramaevillarin-rnn-movie-review-app-0yy8fa.streamlit.app/
+https://jojomorales-imdb-review-rnn.streamlit.app/
 
 ## Objective
 
