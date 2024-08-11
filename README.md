@@ -1,6 +1,6 @@
 # Sentiment Analysis Using Recurrent Neural Networks (RNN) with IMDB Dataset
 
-https://floramaevillarin-rnn-movie-review-app-0yy8fa.streamlit.app/
+https://jojomorales-imdb-review-rnn.streamlit.app/
 
 ## Objective
 
@@ -70,11 +70,10 @@ The objective of this assignment is to implement a Recurrent Neural Network (RNN
 
 The project directory contains the following files:
 
-- **`.gitignore`**           : Specifies files and directories to be ignored by Git
 - **`README.md`**            : Project documentation
 - **`app.py`**               : Main application script
-- **`best_model.h5`**        : Serialized best model for prediction
-- **`movie_e\review.ipynb`** : Jupyter Notebook with data exploration and model training
+- **`tuned_model.keras`**    : Serialized best model for prediction
+- **`imdb_review.ipynb`**    : Jupyter Notebook with data exploration and model training
 - **`requirements.txt`**     : Python package dependencies
 - **`tokenizer.pkl`**        : Convert text to sequences
 
@@ -86,4 +85,4 @@ To set up the project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/floramaevillarin/RNN_Movie_Review.git
+   git clone https://github.com/jojo-morales/IMDB_MovieReview_RNN.git
